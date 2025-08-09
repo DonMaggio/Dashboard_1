@@ -1,6 +1,6 @@
-# JuegoDeMemoria
+# Dashboard
 
-_Juego desarrollado en Python y luego adaptado para generar una interface grafica en tkinter_
+_Tablero de control de ejemplo en el cual se analizan los datos provistos por una planilla_
 
 
 ## Comenzando 🚀
