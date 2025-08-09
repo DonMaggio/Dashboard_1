@@ -44,7 +44,7 @@ streamlit run streamlit.py
 _Herramientas utilizadas para crear el proyecto_
 
 * [duckdb](https://duckdb.org/docs/stable/clients/python/overview.html) - Para la conversion de una consulta SQL a Pandas DataFrame
-* [pandas] (https://pandas.pydata.org/) - Para el manejo de la hoja de cálculos
+* [pandas](https://pandas.pydata.org/) - Para el manejo de la hoja de cálculos
 * [plotly](https://plotly.com/) - Para la creación de visualizaciones
 * [streamlit](https://streamlit.io/) - Para la crecion de la app
 
